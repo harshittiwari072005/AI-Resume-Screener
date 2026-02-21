@@ -135,4 +135,15 @@ AI / ML Developer — NLP Projects
 
 ## ⭐ If you like this project
 
-Give it a star — it helps a lot!
+Give it a star — it helps a lot!  
+
+## UI SCREENSHOT
+<img width="1909" height="752" alt="image" src="https://github.com/user-attachments/assets/2e681cd3-c2c8-462c-b9ac-796a349171a8" />
+
+
+
+<img width="995" height="697" alt="image" src="https://github.com/user-attachments/assets/542dcaf1-3b81-4554-906b-5372e602ec72" />
+
+
+
+
